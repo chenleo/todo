@@ -1,7 +1,7 @@
 todo
 ====
 
-web:
+Web:
 ----
 - https://pypi.python.org/pypi/bibtexparser
 - http://maverickmw.github.io
